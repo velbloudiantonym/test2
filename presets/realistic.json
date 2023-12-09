@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors"
+        "realisticStockPhoto_v10.safetensors": "https://civitai.com/models/139562/realvisxl-v20"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
